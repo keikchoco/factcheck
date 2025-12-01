@@ -110,7 +110,7 @@ export default function Home() {
               <img
                 src={src}
                 alt=""
-                className="absolute bottom-[0.6rem] right-0 w-[98%] z-1 object-cover aspect-[4.13/3]"
+                className="absolute bottom-[0.6rem] right-0 w-[98.1%] z-1 object-cover aspect-[4.09/3]"
               />
             </div>
           ))}
